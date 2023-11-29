@@ -28,7 +28,11 @@ header p {
 .projects,
 .contact,
 .education,
-.CV_section {
+.CV_section,
+.Scientific_Publication,
+.Skills,
+.Honors,
+.Conference {
     background-color: #f4f4f4;
     padding: 40px 0;
 }
