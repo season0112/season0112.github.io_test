@@ -27,7 +27,8 @@ header p {
 .about,
 .projects,
 .contact,
-.education {
+.education,
+.CV_section {
     background-color: #f4f4f4;
     padding: 40px 0;
 }
