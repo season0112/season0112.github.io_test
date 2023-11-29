@@ -26,7 +26,8 @@ header p {
 
 .about,
 .projects,
-.contact {
+.contact,
+.education {
     background-color: #f4f4f4;
     padding: 40px 0;
 }
